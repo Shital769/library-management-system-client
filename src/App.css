@@ -1,0 +1,17 @@
+.login-page {
+  width: 400px;
+  border: 2px solid rgb(103, 215, 103, 0.8);
+  padding: 2rem;
+  margin: auto;
+  border-radius: 50px;
+  background: rgba(24, 237, 24, 0.197);
+  box-shadow: -5px 5px 15px 10px rgb(224, 142, 197, 0.8);
+}
+
+.form {
+    background: rgb(21, 188, 234);
+    border-radius: 5px;
+    padding: 1rem;
+    min-height: 100px;
+    box-shadow: -2px 5px 5px 5px rgba(136, 97, 235, 0.7);
+  }
